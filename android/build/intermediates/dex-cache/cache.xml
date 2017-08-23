@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_ccbaa09091cb43820b0d30e434665978de9711f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_39cbaa1e93d72e35d8a253104ec589d0e680cd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_83676807229e344ee5d98b2e8f5ee90735dbc5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.adobe.xmp\xmpcore\5.1.2\55615fa2582424e38705487d1d3969af8554f637\xmpcore-5.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="55615fa2582424e38705487d1d3969af8554f637">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\xmpcore-5.1.2_6890dcc9d1a2839094b8a1fc4de2fec26f1fc6f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_33f384a6cb19b7d52d05e57d1fa21cdfb3d8cbf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_80d1f1b50e0ef6892ca2c358fda98a773e7d5ebb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_43440ec3d64d117db14191fe77f13db348872d67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_83ed2baaee9820a1cc2833f74db46f990801f496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\reactnativeraizen\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\reactnativeraizen-react-native-vector-icons-unspecified_5aa2e96ff85fdd1ef00663ab5fb5d0d48e099da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.drewnoakes\metadata-extractor\2.9.1\53fdf22be10c9d426ec63431c7342895bc642261\metadata-extractor-2.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="53fdf22be10c9d426ec63431c7342895bc642261">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\metadata-extractor-2.9.1_9081878343040d1cad4d81c180e8c5030247f842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_965bc4c85cf66e47b8b1c0b76bb353fe45469a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_f7701e8c5baeb4d16a67881395a916da9ba17601.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\reactnativeraizen\react-native-camera\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9d5c316e13caccc36468da7a594ddd466734fc02">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\reactnativeraizen-react-native-camera-unspecified_7215e97723d6482c2b1913dab09606a273586392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_0b92f8d4b024f77cd9f34fc348211a5be6a06800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_1cb67a1a5ff343a7ddc6cefec4d0194257c780d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0169382f78f78cdcb30d2b4caf72cdf4fc2dca2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_c17f144bd8e793fb364a967d52618b5d6eacfea0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_ed056cf491007105d54d8d8bd5fe559657696c95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_71e4ccc58d40119b21c783d27c4e5ea3c29647fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_8071f4c9153dc7870472de6e150b34ef67614792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_bbbb2f53f35cfe630b882b70c9054308ebb40b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_b6b07aea98db8f30fe303a9fc6ffe180ad31ec88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_48255f32b24c3b647db7282cfc186e549600452a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\core-3.2.1_47135256d063434ed41aebd03d471e7223796761.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_7997b9849e9692ed42f8152c1ad2bfd93fd4da28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.46.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5526d30278eb171f4a1325bd6b927c9057c91f4">
+        <dex dex="C:\Users\user\projetos\react-native-raizen-apk\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.46.4_40d20d529fee5dfa345a8373bf63cb38e0a2a162.jar" />
+    </item>
+
+</items>
