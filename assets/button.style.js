@@ -38,6 +38,7 @@ export default {
 			backgroundColor: theme.primary,
 		}
 
-	}
+	},
+	default: button
 }
 

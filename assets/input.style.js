@@ -19,5 +19,6 @@ export default {
 			fontSize: 18,
 			height: 50
 		}
-	}
+	},
+	default: input
 };

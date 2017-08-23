@@ -1,6 +1,6 @@
 import theme from './variables'
 export default {
-	tab: (active) => {
+	tab: (active = false) => {
 		return {
 			buttonStyle: {
 				borderBottomWidth: 3,
