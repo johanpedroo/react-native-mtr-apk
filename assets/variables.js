@@ -1,6 +1,6 @@
 export default {
-	brandColor: '#961a8d',
-	secundaryBrandColor: '#e3e3e3',
-	primary: '#d5a3d1',
+	brandColor: '#224d96',
+	secundaryBrandColor: '#e3a029',
+	primary: '#d5ba76',
 	bgColorDefault: '#F1F5F8',
 }
